@@ -1,0 +1,22 @@
+{
+"cursos":[
+    {
+        "id":1,
+        "nome":"Mtec-PI Desenvolvimento de Sistemas",
+        "disciplinas":["PAM II", "WEB III", "Banco de Dados"],
+        "carga horária": 3600
+    },
+    {
+        "id":2,
+        "nome":"Mtec-N Informática",
+        "disciplinas":["Segurança da Informação", "Desenvolvimento de Sistemas", "Banco de Dados"],
+        "carga horária": 3600
+    },
+    {
+        "id":3,
+        "nome":"Mtec-N Informática para Internet",
+        "disciplinas":["Web Design", "Banco de Dados", "Redes e Computadores"],
+        "carga horária": 3600
+    }
+]
+}
